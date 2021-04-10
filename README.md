@@ -1,0 +1,2 @@
+# Lenovo_XiaoXin_Rui7000_Hackintosh
+联想小新锐7000黑苹果EFI配置
