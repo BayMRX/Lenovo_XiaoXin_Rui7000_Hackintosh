@@ -33,8 +33,6 @@ HDMI使用基本正常，可以插着开机，也可以开机后在插。插着�
 
 #### 截图
 
-![image-20210410160441128](/Users/baymrx/Library/Application Support/typora-user-images/image-20210410160441128.png)
-
-![image-20210410160646557](/Users/baymrx/Library/Application Support/typora-user-images/image-20210410160646557.png)
-
-![image-20210410160727625](/Users/baymrx/Library/Application Support/typora-user-images/image-20210410160727625.png)
+![image-20210410160441128](https://user-images.githubusercontent.com/41069495/114263418-ead9ce00-9a17-11eb-9cf0-d400269c4d9a.png)
+![image-20210410160727625](https://user-images.githubusercontent.com/41069495/114263421-edd4be80-9a17-11eb-9f4a-cb959a30fcd6.png)
+![image-20210410160646557](https://user-images.githubusercontent.com/41069495/114263425-f0371880-9a17-11eb-984e-6d216f6d230e.png)
