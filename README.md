@@ -15,9 +15,11 @@
 | OC版本    | 0.7.6                                           |
 | MacOS版本 | macOS 12.1 Monterey                             |
 
-#### 使用说明
+#### 使用说明[Release](https://github.com/BayMRX/Lenovo_XiaoXin_Rui7000_Hackintosh/releases)
 
 ⚠️使用此EFI安装需要**解锁**笔记本电脑的**CFG Lock**，参考教程：[联想拯救者Y7000P 2019款bios高级教程——解锁CFG+修改DVMT/其他高级选项](http://bbs.pcbeta.com/viewthread-1845189-1-1.html)，解锁偏移地址直接在此列出`CFG：0x3C，DVMT：0xDF`
+
+⚠️需要自行生成三码！！
 
 #### HDMI
 
