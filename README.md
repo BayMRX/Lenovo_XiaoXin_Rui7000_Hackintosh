@@ -12,8 +12,8 @@
 | 硬盘      | WDS500G3X0C-00SJG0（西数SN750 M.2固态硬盘500G） |
 | 显卡      | NVIDIA GeForce GTX 1050（2GB）/Intel HD 630集显 |
 | 网卡      | Intel AX200 WiFi6                               |
-| OC版本    | 0.6.5                                           |
-| MacOS版本 | macOS 11.2.3 BigSur                             |
+| OC版本    | 0.7.6                                           |
+| MacOS版本 | macOS 12.1 Monterey                             |
 
 #### 使用说明
 
@@ -23,16 +23,18 @@
 
 HDMI使用基本正常，可以插着开机，也可以开机后在插。插着开机时只有外接显示器能点亮，笔记本内屏会黑屏，解决办法是使系统进入睡眠状态（待键盘指示灯熄灭），然后再唤醒即可点亮内屏（唤醒时外接设备可能会无效，需要使用笔记本内置键盘唤醒）
 
+⚠️⚠️⚠️连接外部显示器时，笔记本合屏开机外置显示器会花屏，需要笔记本开合一次才会消失（此问题在使用bigSur时的某次升级后出现，bigSur较早版本不会有这个问题）
+
 #### 网卡
 
-无线网卡更换成了Intel AX200 WiFi6网卡，但目前Intel网卡在黑苹果中的带宽最高只有55Mbps左右，介意的建议还是使用博通方案
+无线网卡更换成了Intel AX200 WiFi6网卡，正常使用几乎没有问题，速度也很快。随航和隔空投送暂未实现，介意的建议还是使用白果卡方案
 
 #### 系统支持
 
-本人直接安装BigSur可以成功，其他版本没有测试，Catalina和Mojave应该也能正常使用，具体还请自测
+本人直接安装BigSur和Monterey都可以成功，其他版本没有测试，Catalina和Mojave应该也能正常使用，具体还请自测
 
 #### 截图
-
+![Monterey](https://raw.githubusercontent.com/BayMRX/Blog_source/9b1a6c9f59f87b7ec25deb3534ea012e6587dc3f/img/2022-01-03_21-45-52.jpg)
 ![image-20210410160441128](https://user-images.githubusercontent.com/41069495/114263418-ead9ce00-9a17-11eb-9cf0-d400269c4d9a.png)
 ![image-20210410160727625](https://user-images.githubusercontent.com/41069495/114263421-edd4be80-9a17-11eb-9f4a-cb959a30fcd6.png)
 ![image-20210410160646557](https://user-images.githubusercontent.com/41069495/114263425-f0371880-9a17-11eb-984e-6d216f6d230e.png)
